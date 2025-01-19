@@ -1,7 +1,7 @@
 # Tableau Storyboard: Airbnb Rental Analysis  
 **Authors:** Greg Fagan & Natalie Brown  
 
-**Final Project Link:** https://public.tableau.com/shared/NTJNYWT8M?:display_count=n&:origin=viz_share_link
+**Final Project Link:** https://public.tableau.com/shared/ZPRYJ87R3?:display_count=n&:origin=viz_share_link
 
 
 ---
